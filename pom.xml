@@ -108,7 +108,7 @@
       <resource>
         <directory>src/main/resources</directory>
         <excludes>
-        <exclude>static/AngularCode/**</exclude>
+        <exclude>static/**</exclude>
         </excludes>
         </resource>
       </resources> 
